@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi there! I’m Saman Majidi Nia
+🎓 A passionate Software Engineering undergraduate student
+💻 Driven by curiosity and the desire to turn ideas into elegant, functional, and scalable software.
+⚙️ Tech Stack & Interests:
 
-<!--
-**smjmn/smjmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Backend development with Node.js and Nest.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Design and implementation of RESTful APIs and microservices
+
+
+Proficient with JavaScript / TypeScript, familiar with Python
+
+
+Experience with Git, Docker, and basic DevOps practices
+
+
+🚀 Currently exploring software architecture, database optimization, and cloud technologies.
+🧠 I believe in clean code, continuous learning, and building solutions that make an impact.
