@@ -1,4 +1,4 @@
-👋 Hi there! I’m Saman Majidi Nia
+👋 Hi there! I’m Saman MajidiNia
 
 🎓 A passionate Software Engineering undergraduate student
 
